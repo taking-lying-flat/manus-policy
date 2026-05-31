@@ -1,4 +1,5 @@
 # https://spinningup.openai.com/en/latest/algorithms/trpo.html
+# https://en.wikipedia.org/wiki/Conjugate_gradient_method
 
 import argparse
 import os
